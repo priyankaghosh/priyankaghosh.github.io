@@ -1,0 +1,7 @@
+---
+layout: post
+title: "dogs"
+date: 2013-06-10 16:32
+comments: true
+categories: 
+---
