@@ -4,7 +4,7 @@
   <title><![CDATA[Priyanka Ghosh]]></title>
   <link href="http://priyankaghosh.github.io/atom.xml" rel="self"/>
   <link href="http://priyankaghosh.github.io/"/>
-  <updated>2013-06-11T15:26:33+05:30</updated>
+  <updated>2013-06-20T16:21:38+05:30</updated>
   <id>http://priyankaghosh.github.io/</id>
   <author>
     <name><![CDATA[priyanka]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[html]]></title>
+    <link href="http://priyankaghosh.github.io/blog/2013/06/20/html/"/>
+    <updated>2013-06-20T16:19:00+05:30</updated>
+    <id>http://priyankaghosh.github.io/blog/2013/06/20/html</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[different types of dogs]]></title>
